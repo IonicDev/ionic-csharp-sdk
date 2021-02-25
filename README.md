@@ -12,4 +12,4 @@ The 2.1 release includes the following crypto modules:
 * libCryptoAbstractLibFips - A FIPS-validated version of the OpenSSL open source crypto module (default module)
 * libCryptoAbstractLibPlatform - A non FIPS-validated version of the OpenSSL open source crypto module which uses OS specific, non-blocking RNG sources
 
-See Machina Developers for more information.
+See [Machina Developers](https://dev.ionic.com/sdk/features) for more information.
